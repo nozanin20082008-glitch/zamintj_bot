@@ -1,2 +1,2 @@
-# zamintj_bot
+# ZaminYodgarBot_bot
 Telegram bot for agriculture 
